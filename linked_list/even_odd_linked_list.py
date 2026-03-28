@@ -17,7 +17,6 @@ def arrayToLL(arr):
 
     return head
 
-
 def printLL(head):
     if not head:
         return None
